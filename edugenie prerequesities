@@ -1,0 +1,22 @@
+{
+  "phase": "Prerequisites",
+  "description": "Basic requirements that learners should know before starting the project.",
+  "objectives": [
+    "Understand basic computer concepts",
+    "Know fundamental programming concepts",
+    "Understand variables, data types and operators",
+    "Develop basic problem-solving skills"
+  ],
+  "requirements": {
+    "hardware": [
+      "Computer or Laptop",
+      "Stable Internet Connection"
+    ],
+    "software": [
+      "Windows/Linux/macOS",
+      "VS Code or suitable IDE",
+      "Web Browser"
+    ]
+  },
+  "expected_outcome": "Learners will be prepared to understand and perform the activities in the project."
+}
